@@ -1,6 +1,5 @@
 # bangkit2024
 Repositori untuk pembelajaran bangkit-dicoding
 
-Progress
-- Coba coba aja (50%)
-- Coba lagi (80%)
+Progress 22/02/2024
+- Belajar Dasar Git dengan Github (51%)
